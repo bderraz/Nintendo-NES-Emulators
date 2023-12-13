@@ -1,5 +1,5 @@
 # NES Emulator
- C++ NES emulator is a fun project I started because I my intrest in computer architecture and old-school games.
+ C++ NES emulator is a fun project I started because of my intrest in computer architecture and old-school games.
 
 
 ### Prerequisites
